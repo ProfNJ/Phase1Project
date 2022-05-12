@@ -1,0 +1,59 @@
+body {
+    background-color: black;
+    
+}
+
+#app{
+    background-color: #D40044;
+    padding-top: 5em;
+}
+
+#menu{
+ left: 0;
+ right: 0;
+ display: flex;
+ color: white;
+ font-family: 'Montserrat', sans-serif;
+ position: sticky;
+ background-color: black;
+}
+
+#buttons{
+    padding: 0;
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: black;
+    border-radius: 25%;
+}
+
+.slide{
+    display: grid;
+    place-items: center;
+    height: 400px;
+    padding-bottom: 700px;
+}
+
+#title{
+    margin: auto;
+    position: sticky;
+}
+
+#part1 {
+    
+    
+    margin: auto;
+    display: grid;
+    place-items: center;
+}
+
+p {
+    color: white;
+    font-family: 'Roboto Slab', serif;
+}
+
+#question {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;
+}
